@@ -1,5 +1,5 @@
 # The Legend of Zelda: Ocarina of Time - Demon's Quest
-Demon's Quest is a gameplay mod that aims to make the game much more difficult. Much inspiration was taken from Demon's Souls.
+Demon's Quest is a gameplay mod that aims to make the game much more difficult. Much inspiration was taken from From Software's Soulsborne games.
 
 # Injecting
 
