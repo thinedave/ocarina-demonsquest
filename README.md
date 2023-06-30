@@ -1,5 +1,13 @@
 # The Legend of Zelda: Ocarina of Time - Demon's Quest
-Demon's Quest is a gameplay mod that aims to make the game much more difficult. Much inspiration was taken from From Software's Soulsborne games.
+Ocarina of Time: Demon's Quest is a gameplay mod that aims to make the game more challenging to the experienced player.
+
+Features include:
+- Shield Durability: Consider dodging. Shields can be re-bought at a shop.
+- Stamina: Every combat action you take drains stamina. No longer can you mindlessly swing your sword about and win.
+- Life Drain: Upon death, a heart container is drained from your life. Consult the Great Fairies for aid.
+- Triple Damage: Those Deku Babas aren't playing anymore.
+- Potions: Drinking a potion no longer pauses the game.
+- COMING SOON: Hero Mode -- Challenge yourself in this mode where drained heart containers can no longer be recovered. Ever. Try not to lose them all.
 
 # Injecting
 
