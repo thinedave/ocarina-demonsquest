@@ -11,6 +11,6 @@ Features include:
 
 # Injecting
 
-1. Acquire a .z64 ROM file of Ocarina of Time 1.0U (Debug, 1.1 and 1.2 unsupported)
+1. Acquire through legal means a .z64 ROM file of Ocarina of Time 1.0U (Debug, 1.1 and 1.2 unsupported)
 2. Download and apply the given BPS patch to the ROM
 ### If patching for Wii VC, make sure to apply the given gz_mem_patch.gzi and gz_remap_default.gzi files.
