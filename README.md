@@ -5,6 +5,7 @@ Join the [Hylian Modding Discord Server](http://discord.gg/qQqDsM8).
 
 Features include:
 - Shield Durability: Consider dodging. Shields can be re-bought at a shop.
+- Perfect Block: Don't want to lose stamina? Don't want to lose durability? Don't want to take damage? Now you can have it all.
 - Stamina: Every combat action you take drains stamina. No longer can you mindlessly swing your sword about and win.
 - Life Drain: Upon death, a heart container is drained from your life. Consult the Great Fairies for aid.
 - Triple Damage: Those Deku Babas aren't playing anymore.
