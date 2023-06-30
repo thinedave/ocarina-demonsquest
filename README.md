@@ -1,5 +1,6 @@
 # The Legend of Zelda: Ocarina of Time - Demon's Quest
 Ocarina of Time: Demon's Quest is a gameplay mod that aims to make the game more challenging to the experienced player.
+
 Join the [Hylian Modding Discord Server](http://discord.gg/qQqDsM8).
 
 Features include:
