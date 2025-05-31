@@ -16,6 +16,12 @@ Features include:
 - Double Damage: Those Deku Babas aren't playing anymore.
 - Potions: Drinking a potion no longer pauses the game.
 
+# Credits
+thinedave - Main developer
+Aegiker - Savespots, assistance
+kentonm - Scripts, assistance
+HailToDodongo - Stamina wheel, assistance
+
 # Injecting
 
 1. Acquire through legal means a .z64 ROM file of Ocarina of Time 1.0U (Debug, 1.1 and 1.2 unsupported)
